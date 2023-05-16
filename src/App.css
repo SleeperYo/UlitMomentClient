@@ -1,0 +1,51 @@
+.App {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 30px;
+  max-width: 100%;
+}
+.form {
+  box-shadow: 0px 20px 100px rgba(0, 0, 0, 0.4);
+  border-radius: 20px;
+}
+
+.textHead {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 32px;
+}
+
+.button-flat {
+  background-color: #0075FF;
+  color: white;
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 900;
+  font-size: 16px;
+  line-height: 30px;
+}
+
+.profileForm {
+  background: #EFEFEF;
+  box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.courseFormText {
+  background: #EFEFEF;
+  border-radius: 20px;
+}
+
+.courseHeaderForm {
+  display: flex;
+  width: 100%;
+  max-width: 60%;
+  margin: 0 auto;
+  justify-content: center;
+}
+
+.courseHeaderBack {
+  background: dodgerblue;
+}
